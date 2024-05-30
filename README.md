@@ -9,6 +9,6 @@ ucak 1 ve 2 sadece bir konsept tasarim oldugu icin onlarin kodlari yoktur
 
 
 BOTUN OZELLIKLERI:
-*sizinle basit bir sohbet yapabilir
-*onceden belirlenmis komutlara cevap verir
-*internette arama yapabilir
+-sizinle basit bir sohbet yapabilir
+-onceden belirlenmis komutlara cevap verir
+-internette arama yapabilir
