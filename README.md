@@ -3,6 +3,10 @@ ucak gelistirilmekte olan bir discord botu kullanimi kolay ve biraz depresif cev
 etmektedir bu yuzden bu sunucuya su an bagalantiya sahip degilseniz katilamazsini ve botu test edemezsiniz ama buraya sizin icin bir tutorial yazacagim eger bu adimlari
 dogru bir sekilde uygularsaniz sizinde bir botunuz olabilir.
 
+ucak 1 ve 2 sadece bir konsept tasarim oldugu icin onlarin kodlari yoktur
+
+!!!botun 3.2 surumunden onceki surmlerinin bir yedegi olmadigindan buraya koyamayacagim!!!
+
 
 BOTUN OZELLIKLERI:
   -sizinle basit bir sohbet yapabilir
